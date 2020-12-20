@@ -18,5 +18,5 @@ The travelling salesman problem (also called the traveling salesperson problem o
 In computer science and operations research, a genetic algorithm (GA) is a metaheuristic inspired by the process of natural selection that belongs to the larger class of evolutionary algorithms (EA). Genetic algorithms are commonly used to generate high-quality solutions to optimization and search problems by relying on biologically inspired operators such as mutation, crossover and selection.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DNA_Overview2.png/130px-DNA_Overview2.png" width="100" title="hover text">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DNA_Overview2.png/130px-DNA_Overview2.png" width="50" title="hover text">
 </p>
