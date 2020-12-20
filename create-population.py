@@ -1,5 +1,4 @@
 '''
-
 Here we can create the class City and the class Fitness
 Then we are going to create the initial population
 '''
